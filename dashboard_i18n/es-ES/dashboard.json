@@ -3,35 +3,35 @@
     "SELECTGUILDCONFIG": "Selecciona un servidor para configurar:",
     "WELCOMEUSER": "¡Hola {{user}} !",
     "ADDMETHERE": "Añádeme aquí:",
-    "NOSERVTOCONFIG": "Sorry, you cannot configure any servers :(",
-    "NOSERVTOADD": "Sorry, you currently have no servers where you can add me :("
+    "NOSERVTOCONFIG": "Lo siento, no puedes congifurar ningún servidor :(",
+    "NOSERVTOADD": "Lo siento, no tienes ningún servidor donde me puedas añadir :("
   },
   "server": {
     "sidebar": {
-      "TITLE": "Settings",
-      "INVITES": "Invites",
-      "COMMANDS": "Commands",
-      "MAIN": "Miscellaneous",
-      "RANKS": "Ranks"
+      "TITLE": "Configuraciones",
+      "INVITES": "Invitaciones",
+      "COMMANDS": "Comandos",
+      "MAIN": "Varios",
+      "RANKS": "Rangos"
     },
     "main": {
-      "PREFIXTITLE": "Prefix",
-      "PREFIXDESC": "Change the current <strong>prefix</strong>.",
-      "LANGTITLE": "Language",
-      "LANGDESC": "Change the current <strong>language</strong>."
+      "PREFIXTITLE": "Prefijo",
+      "PREFIXDESC": "Change el <strong>prefijo</strong>",
+      "LANGTITLE": "Idioma",
+      "LANGDESC": "Cambia el <strong>idioma</strong> actual"
     },
     "invites": {
       "join": {
-        "MESSAGE_TITLE": "Join Messages",
-        "MESSAGE_DESC": "What join message do you want to modify?",
+        "MESSAGE_TITLE": "Mensaje de bienvenida",
+        "MESSAGE_DESC": "Cuál mensaje de bienvenida quieres modificar?",
         "messages": {
-          "HIMSELF_TITLE": "Invited himself",
+          "HIMSELF_TITLE": "invitación a si mismo",
           "NORMAL_TITLE": "Normal join",
-          "UNKNOWN_TITLE": "Unknown inviter",
-          "VANITY_TITLE": "Vanity invite",
-          "NORMAL_DESC": "When a user is invited by someone else.",
-          "HIMSELF_DESC": "When a user invites himself to your server.",
-          "UNKNOWN_DESC": "When a user joins but I can't tell who invited them.",
+          "UNKNOWN_TITLE": "invitación desconocida",
+          "VANITY_TITLE": "invitación personalizada",
+          "NORMAL_DESC": "Cuando un usuario es invitado por otro usuario.",
+          "HIMSELF_DESC": "Cuando un usuario se invita a él mismo.",
+          "UNKNOWN_DESC": "Cuando un usuario se une pero no puedo decirte quién le invitó.",
           "VANITY_DESC": "When a user is invited with a custom code."
         },
         "CHANNEL_TITLE": "Join Channel",
