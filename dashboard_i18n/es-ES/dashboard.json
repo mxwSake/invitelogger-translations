@@ -1,8 +1,8 @@
 {
   "guilds": {
-    "SELECTGUILDCONFIG": "Select a server to configure:",
-    "WELCOMEUSER": "Hi {{user}} !",
-    "ADDMETHERE": "Add me here:",
+    "SELECTGUILDCONFIG": "Selecciona un servidor para configurar:",
+    "WELCOMEUSER": "¡Hola {{user}} !",
+    "ADDMETHERE": "Añádeme aquí:",
     "NOSERVTOCONFIG": "Sorry, you cannot configure any servers :(",
     "NOSERVTOADD": "Sorry, you currently have no servers where you can add me :("
   },
